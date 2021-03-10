@@ -1,0 +1,6 @@
+{
+	"values": [
+		"cd_timer:install",
+		"cd_timer:end_timer"
+	]
+}
